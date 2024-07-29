@@ -1,0 +1,5 @@
+[package]
+name = 'link-sharing-app-frontend'
+author = 'Arno Volts'
+version = '0.0.1'
+edition = '2021'
