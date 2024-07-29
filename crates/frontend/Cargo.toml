@@ -3,3 +3,7 @@ name = 'link-sharing-app-frontend'
 author = 'Arno Volts'
 version = '0.1.0'
 edition = '2021'
+
+[dependencies]
+yew = { version="0.21", features=["csr"] }
+yew-nested-router = "0.7"
